@@ -9,4 +9,5 @@
 ## Jupyter Notebookにログインする
 ```docker-compose logs jn```
 
-ログの中からトークンのついたURLにアクセスするとnotebooksのファイルをJupyter Notebookで作業できる！
+- ログの中からトークンのついたURLを探し出す
+- そのURLにアクセスするとnotebooksのファイルをJupyter Notebookで作業できる！
